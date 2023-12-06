@@ -1,6 +1,6 @@
-# React + Vite
+# Mini Estate MERN Stack x Tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a complete MERN stack application for property listing, on this project i am utilizing the power of Tailwindcss and JavaScript framework such as React and Node Express for server-side and Mongodb for database.
 
 Currently, two official plugins are available:
 
